@@ -1,8 +1,11 @@
 # freecodecamp
 
-.pop()
+.pop() 
+
 .shift()
+
 .push()
+
 .unshift()
 
 
