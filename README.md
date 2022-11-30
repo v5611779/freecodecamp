@@ -1,5 +1,4 @@
 # freecodecamp
-
 .pop() 
 
 .shift()
